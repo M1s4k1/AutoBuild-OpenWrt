@@ -59,7 +59,7 @@ jobs:
         ./scripts/feeds install libpam
         ./scripts/feeds install libev
         ./scripts/feeds install libtirpc
-        ./scripts/feeds insatll liblzma
+        ./scripts/feeds install liblzma
         ./scripts/feeds install libnetsnmp
         ./scripts/feeds install -a
 
